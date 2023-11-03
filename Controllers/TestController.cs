@@ -10,6 +10,6 @@ public class TestController : ControllerBase
     [HttpGet]
     public string Get()
     {
-       return "Galatasaray";
+       return "Fenerbahce";
     }
 }
